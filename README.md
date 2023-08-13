@@ -29,7 +29,7 @@
 
 
 ### Краткая информация о данных
-(не актуально для данного проекта)
+ссылка: https://colab.research.google.com/drive/18OffniSW01MPN0P2TNJAOEzY3mCWmcK9#scrollTo=giSKBUmgCAeh 
   
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
